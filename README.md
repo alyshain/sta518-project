@@ -1,8 +1,8 @@
 # The Affordability Squeeze
 ### How Rising Costs Have Outpaced Income Across American Counties (2009–2023)
 
-📊 [View Final Presentation (PDF)](Presentation/STA518-Final-Presentation.pdf)
-📄 [View Full Report](https://alyshain.github.io/sta518-project/Report/STA518-Project-Report.html) · 📊 [View Presentation (PDF)](Presentation/STA518-Final-Presentation.pdf)
+📄 [View Full Report](https://alyshain.github.io/sta518-project/Report/STA518-Project-Report.html)
+📊 [View Presentation (PDF)](Presentation/STA518-Final-Presentation.pdf)
 
 ---
 
